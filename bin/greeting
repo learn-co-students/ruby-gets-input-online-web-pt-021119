@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+7#!/usr/bin/env ruby
 
 require_relative '../lib/hello_ruby_programmer.rb'
 
